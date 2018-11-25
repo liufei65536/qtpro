@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>galaxy.png</file>
+    </qresource>
+    <qresource prefix="/mouse">
+        <file>锤子2.png</file>
+        <file>锤子.png</file>
+        <file>dog.png</file>
+    </qresource>
+</RCC>
